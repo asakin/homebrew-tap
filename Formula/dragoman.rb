@@ -3,8 +3,8 @@ class Dragoman < Formula
 
   desc "Small CLI that lets Claude Code reach non-Anthropic models"
   homepage "https://github.com/asakin/dragoman"
-  url "https://files.pythonhosted.org/packages/05/84/248edbef328b257e9322f24df53813455ec8b0ac9395ecf82d4836bbdf04/dragoman_ai-0.5.0.tar.gz"
-  sha256 "8f4dc41e5407201dee1bd157925b28300ff15fe9d234c03d1e1b7d0c4c60668d"
+  url "https://files.pythonhosted.org/packages/2e/88/30a7a8e78c55bbf00a9c12a246d25091447b2b6dbdb710e6cf2dd113f2ec/dragoman_ai-0.6.1.tar.gz"
+  sha256 "973fdd40eef53bd029be022590100f8cd80552f4db2b2d9fc8401a4ee6ef3eae"
   license "Apache-2.0"
 
   depends_on "python@3.12"
